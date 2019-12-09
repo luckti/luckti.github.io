@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Blog.luckti"
+title: "luckti"
 description: "Unity of Knowing and Acting"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://blog.lin-sci.cn" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://blog.luckticloud.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /imgs/logo.png # path of site logo, e.g. "/imgs/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
@@ -100,8 +100,8 @@ defaults:
 
 # Footer Links
 footer_links:
-  - title: Github - YuqingLin
-    url: https://github.com/yuqing-lin
+  - title: Github - luckticloud
+    url: https://github.com/luckticloud
     icon: fab fa-github-square
   # - title: Feed
   #   url: atom.xml

@@ -3,15 +3,15 @@
 - title: Home
   url: /
   icon: fas fa-home
-- title: Posts
+- title: 推文
   url: /posts/
-- title: Categories
+- title: 类别
   url: /categories/
-- title: Tags
+- title: 标签
   url: /tags/
 # - title: Projects
 #   url: /prjs/
-- title: About
+- title: 关于
   url: /about/
 - title: Search
   url: /search/

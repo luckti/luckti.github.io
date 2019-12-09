@@ -1,5 +1,33 @@
 # Theme text and labels
 
+# English (default)
+# -----------------
+ch: &DEFAULT_CH
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu_label: "菜单"
+  by: "by"
+  min_read: "（分）阅读"
+  read_more: "更多&hellip;"
+  categories: "分类"
+  tags: "标签"
+  pages_categorized: "页面所属类别"
+  pages_tagged: "页面标签"
+  table_of_contents: "目录"
+  results_found: "查找结果"
+  share: "分享"
+  tweet: "Tweet"
+  next: "下一篇"
+  previous: "上一篇"
+  newer: "新文"
+  older: "旧闻"
+  back_to_top: "回到首部"
+  search_placeholder_text: "输入搜索关键词..."
+  powered_by: "Powered by"
+ch-cn:
+  <<: *DEFAULT_CH
 
 # English (default)
 # -----------------

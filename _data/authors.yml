@@ -1,0 +1,12 @@
+# Site Author
+luckti:
+  picture: /imgs/avatar.png
+  email:
+  github: https://github.com/luckti
+  links:
+    - title: Github
+      url: https://github.com/luckti
+      icon: fab fa-github
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/yuqing-lin-621333171/
+      icon: fab fa-linkedin

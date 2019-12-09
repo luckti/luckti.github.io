@@ -1,0 +1,22 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+  icon: fas fa-home
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+# - title: Projects
+#   url: /prjs/
+- title: About
+  url: /about/
+- title: Search
+  url: /search/
+  icon: fas fa-search
+- title: Add
+  icon: fas fa-plus
+  url: https://github.com/luckti/luckti.github.io/new/master/_posts
+

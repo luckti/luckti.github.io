@@ -1,30 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 image:
   path: /imgs/skills-interests.png
 ---
-Hi, guys! I'm **luckti**, **luckticloud** is my organization. I'm the only one member [🤣], however, I wish I can attract more people to join in the future. *<q>See you in a wonderful day, my partner!</q>*
+大家好，我是**luckti**, **luckticloud** 的个人机构. 现在成员只有我一个[🤣], 然而我希望以后能有更多的人加入. *<q>See you in a wonderful day, my partner!</q>*
 
-This website is my personal English blog, which is used to record my life and flash ideas in English. It's my way to improve my english. So if you find some Enlgish errors or anything else about my blog, it will be very welcome to issue me in [my blog Github repository](https://github.com/luckti/luckti.github.io). Meanwhile, I will also share my open-source projects, you can check it in [Projects](http://blog.luckticloud.com/prjs/index.html). If you have any questions or want to join my projects, you can leave message to me in [Github-luckticloud](https://github.com/luckticloud) related projects' repository issue.
+这个网站是我个人的博客, 用于记录我的日常生活以及技术学习笔记等. 如果你有什么问题或者想要咨询，欢迎在我博客下Issue [luckti](https://github.com/luckti/luckti.github.io). 同时这也是一个MIT协议开源的Jekyll网站，欢迎fork. 
 
-Thanks to the [Jekyll](https://jekyllrb.com/) team's great work, it's really an amazing tool to build website. And thank [Michael Rose](https://github.com/mmistakes) for sharing the simple but beatiful theme.
+[**luckticloud**](https://github.com/luckticloud) 基于我个人的项目，致力于开源项目.
 
-# About Me
-## Biography
-I'm currently a part-time Researcher Assistant in Complex fluid & Soft matter Group, Zhejiang University. I received M.Sc degree from <a href="http://esaa.zju.edu.cn/">School of Aeronautics and Astronautics</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>. Previously, I received the B.Sc degree from <a href="http://gxyen.lzu.edu.cn/">College of Civil Engineering and Mechanics</a> in <a href="http://en.lzu.edu.cn/">Lanzhou University</a> in 2014.
+感谢 [Jekyll](https://jekyllrb.com/) 团队的工作，让网站开发变得如此简单. 同时感谢 [Michael Rose - so-simple-theme](https://github.com/mmistakes/so-simple-theme) 的开源博客主题.
 
-I have broad research interests in machine learning and nerual network. Recently I am focusing on motion data generation by nerual network accord to the key frame motion, so we can obtain fluent motion data.
-
-I love to work in an opening group where there are different people owning different knoledge graph. We can learn from each other, then discuss or brainstorm together to solve problems.
-
-## Miscellany
-<address> 
-  Xihu District, Hangzhou <br>
-  Zhejiang, China <br>
-  310027
-</address>
-Hobbies: Badminton, Soccer, Reading, Music, Anime, Movie.
-
--> Last Updated by luckti: May 7th 2019
+-> 最近更新于: Dec. 9th 2019

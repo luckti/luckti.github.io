@@ -111,10 +111,11 @@
 
 .page-taxonomies-title {
   display: inline;
-  padding-right: 0.5em;
   font-size: 1em;
   font-weight: normal;
   text-transform: uppercase;
+  width: 100%;
+  border-bottom: 1px dashed gray;
 
   @include breakpoint($large) {
     display: inline-block;
@@ -140,9 +141,17 @@
 
 .page-taxonomy {
   display: inline;
+  border: 2px solid black;
+  margin: 5px 3px;
+  padding: 2px 2px;
+  border-radius: 5px;
 
   &:not(:last-child)::after {
-    content: ", ";
+    content: "";
+  }
+
+  &:hover{
+    background-color: gray;
   }
 }
 

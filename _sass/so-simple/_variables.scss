@@ -38,15 +38,16 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
-$serif-font-family: "Lora", serif !default;
-$sans-serif-font-family: "Source Sans Pro", sans-serif !default;
+$serif-font-family: serif,"KaiTi", "DFKai-SB", "KaiTi_GB2312", "MingLiU" !default;
+$sans-serif-font-family: sans-serif, "Microsoft Yahei", "SimHei", "SimSun", "FangSong" !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
+$arial-font-family: arial, kaiti !default;
 
-$base-font-family: $sans-serif-font-family !default;
+$base-font-family: $serif-font-family !default;
 $headline-font-family: $sans-serif-font-family !default;
 $title-font-family: $serif-font-family !default;
 $description-font-family: $serif-font-family !default;
-$meta-font-family: $serif-font-family !default;
+$meta-font-family: $arial-font-family !default;
 
 $page-title-weight: bold !default;
 $entry-title-weight: bold !default;

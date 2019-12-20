@@ -14,8 +14,9 @@
   margin-bottom: 0.5em;
   font-family: $title-font-family;
   font-weight: $page-title-weight;
-  font-style: italic;
+  font-style: normal;
   letter-spacing: -2px;
+  border-bottom: 1px solid black;
 }
 
 .page-image {
@@ -72,7 +73,7 @@
   .page-date,
   .read-time {
     font-family: $meta-font-family;
-    font-style: italic;
+    font-style: normal;
     white-space: nowrap;
   }
 

@@ -31,7 +31,7 @@
   font-style: normal;
   letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
-  border-bottom: 1px dotted gray;
+  border-bottom: 1px dashed gray;
   a {
     text-decoration: none;
   }
@@ -49,7 +49,7 @@
   .entry-date,
   .read-time {
     font-family: $meta-font-family;
-    font-style: italic;
+    font-style: normal;
     white-space: nowrap;
   }
 

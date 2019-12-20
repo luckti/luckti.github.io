@@ -1,5 +1,5 @@
 ---
-title: "JoJo Golden Wind"
+title: "JOJO 黄金之风"
 categories:
 tags:
 excerpt_separator: <!--more-->

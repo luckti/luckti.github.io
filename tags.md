@@ -1,5 +1,5 @@
 ---
-title: Tag Archive
+title: 标签
 layout: tags
 permalink: /tags/
 show_excerpts: true

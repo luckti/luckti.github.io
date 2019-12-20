@@ -20,7 +20,7 @@ description: "知行合一"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://blog.luckticloud.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /imgs/logo.png # path of site logo, e.g. "/imgs/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%Y-%m-%d"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200
 mathjax: true # MathJax equations, e.g. true

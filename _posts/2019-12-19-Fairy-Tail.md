@@ -1,5 +1,9 @@
 ---
 title: "妖精的尾巴"
+image: 
+  path: /imgs/fairy_tail.jpg
+  thumbnail: /imgs/fairy_tail_760.jpg
+#   caption: "Photo from [...](http://...)"
 categories:
    - 动漫
 tags:

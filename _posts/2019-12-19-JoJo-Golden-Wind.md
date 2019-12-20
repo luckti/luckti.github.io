@@ -1,5 +1,9 @@
 ---
 title: "JOJO的奇妙冒险：黄金之风"
+image: 
+  path: /imgs/jojo_golden_wind.jpg
+  thumbnail: /imgs/jojo_golden_wind_760.jpg
+#   caption: "Photo from [...](http://...)"
 categories:
    - 动漫
 tags:

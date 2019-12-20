@@ -27,18 +27,18 @@ HTTP的缺点：
 - 不验证通信方的身份就可能遭遇伪装
 - 无法证明报文的完整性
 
-HTTPS就是身披SSL(Secure Socket Layer)外壳的HTTP：HTTP<->***SSL***<->TCP
+HTTPS就是身披SSL(Secure Socket Layer)外壳的HTTP：HTTP<=>***SSL***<=>TCP
 
 HTTPS 混合加密机制
 ![image-center]({{ '/imgs/web/HTTPS_crypto.png' | absolute_url }}){:.align-center}
 
-证明公开密钥正确性的证书：需要权威结构认证，维护费用提高。-> 各种浏览器都会自带捆绑常用的认证机构证书。
+证明公开密钥正确性的证书：需要权威结构认证，维护费用提高。=> 各种浏览器都会自带捆绑常用的认证机构证书。
 
 # 名词区分
 ### URI 和 URL
-**URL**(Uniform Resource Locator): 表示资源的**地点**（互联网中所在的位置）<br>   -> http://www.baidu.com
+**URL**(Uniform Resource Locator): 表示资源的**地点**（互联网中所在的位置）<br>   => http://www.baidu.com
 {: .notice--info}
-**URI**(Uniform Resource Identifier): 表示**某一**互联网资源 <br>   -> http://www.baidu.com/xxx/index.html
+**URI**(Uniform Resource Identifier): 表示**某一**互联网资源 <br>   => http://www.baidu.com/xxx/index.html
 {: .notice--info}
 
 ### 通信数据转发程序：代理、网关、隧道

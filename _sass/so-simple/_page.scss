@@ -290,6 +290,20 @@
   }
 }
 
+.video-link{
+  margin-top: 10px;
+  max-width: 100%;
+  iframe{
+    border: 1px solid gray;
+  }
+  figcaption{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 1px;
+  }
+}
+
+
 .page--wide {
   .page-wrapper {
     max-width: $main-sidebar-max-width;

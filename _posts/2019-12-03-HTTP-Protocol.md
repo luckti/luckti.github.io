@@ -1,11 +1,10 @@
 ---
 title: "HTTP 协议"
 categories:
-  - Notes
-  - Web
-  - Reading
+  - 读书笔记
 tags:
-  - Notes
+  - 笔记
+  - Web
   - HTTP
 excerpt_separator: <!--more-->
 last_modified_at: 2019-12-03T04:57:43-08:00
@@ -52,4 +51,3 @@ PS: 利用网关可以由HTTP请求转化为其他协议通信。
 **隧道**：在相隔甚远的客户端和服务器两者之间进行中转，并保持双方通信连接的的应用程序。
 PS：通过隧道可以实现远距离服务器的安全通信。若隧道本身是**透明**的，客户端不会在意隧道的存在。
 {: .notice--info}
-

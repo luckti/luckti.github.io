@@ -1,7 +1,6 @@
 ---
 title: "HTTP 协议"
-categories:
-  - 读书笔记
+categories: 读书笔记
 tags:
   - 笔记
   - Web

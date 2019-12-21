@@ -4,8 +4,7 @@ image:
   path: /imgs/jojo_golden_wind.jpg
   thumbnail: /imgs/jojo_golden_wind_760.jpg
 #   caption: "Photo from [...](http://...)"
-categories:
-   - 动漫
+categories: 动漫
 tags:
    - 剧情设计
    - 故事主题

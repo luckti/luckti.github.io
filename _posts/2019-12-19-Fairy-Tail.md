@@ -4,8 +4,7 @@ image:
   path: /imgs/fairy_tail.jpg
   thumbnail: /imgs/fairy_tail_760.jpg
 #   caption: "Photo from [...](http://...)"
-categories:
-   - 动漫
+categories: 动漫
 tags:
    - 剧情设计
    - 故事主题

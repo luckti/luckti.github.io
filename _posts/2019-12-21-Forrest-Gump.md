@@ -51,5 +51,5 @@ last_modified_at: 2019-12-21T01:22:43-08:00
 
 <br>
 ***bilibili*** 有声书:
-- [有声书视频](https://www.bilibili.com/video/av40587950)
-- [有声书音频](https://www.bilibili.com/audio/am30127803)
+[有声书视频](#https://www.bilibili.com/video/av40587950){: .btn .btn--info .btn--small}
+[有声书音频](#https://www.bilibili.com/audio/am30127803){: .btn .btn--success .btn--small}

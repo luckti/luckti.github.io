@@ -11,7 +11,7 @@ tags:
 excerpt_separator: <!--more-->
 last_modified_at: 2019-12-19T12:30:03-08:00
 ---
-> 《JOJO的奇妙冒险：黄金之风》是荒木飞吕彦所著的日本漫画，是《JOJO的奇妙冒险》系列的第五部。动画继续由david production负责制作，于2018年10月5日至2019年7月28日每周五在TOKYO MX首播，中国大陆由[bilibili独家正版](https://www.bilibili.com/bangumi/media/md135652/?from=search&seid=8123950230092045654)发布，全39话。
+> 《JOJO的奇妙冒险：黄金之风》是荒木飞吕彦所著的日本漫画，是《JOJO的奇妙冒险》系列的第五部。动画继续由david production负责制作，于2018年10月5日至2019年7月28日每周五在TOKYO MX首播，中国大陆由[bilibili独家正版](https://www.bilibili.com/bangumi/media/md135652)发布，全39话。
 <!--more-->
 
 住在意大利那不勒斯的青年乔鲁诺·乔巴纳，是继承了乔斯达家宿敌·DIO之血脉的男子。幼年时遭受迫害而自暴自弃的他，由于拯救了一名黑帮男子，而学会了“相信他人”。不忘恩义、保持着敬意对待自己的黑帮，让他的内心变得率直。就这样，乔鲁诺开始对“流氓巨星”怀有憧憬。15岁的乔鲁诺，与统领意大利黑社会的黑帮组织“PASSIONE”一同引发事端，并成为被盯上的目标 ...

@@ -1,7 +1,6 @@
 ---
 title: "HTTP 协议"
-categories:
-  - 读书笔记
+categories: 读书笔记
 tags:
   - 笔记
   - Web
@@ -27,7 +26,7 @@ HTTP的缺点：
 - 不验证通信方的身份就可能遭遇伪装
 - 无法证明报文的完整性
 
-HTTPS就是身披SSL(Secure Socket Layer)外壳的HTTP：HTTP<=>***SSL***<=>TCP
+HTTPS就是身披SSL(Secure Socket Layer)外壳的HTTP：HTTP <=> ***SSL*** <=> TCP
 
 HTTPS 混合加密机制
 ![image-center]({{ '/imgs/web/HTTPS_crypto.png' | absolute_url }}){:.align-center}

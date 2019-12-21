@@ -46,10 +46,10 @@ last_modified_at: 2019-12-21T01:22:43-08:00
 - 阿甘在越南时的战友，和阿甘在战斗中建立起深厚的友谊，他梦想战争结束后回美国创业，成立渔业公司，通过捕虾成了一名企业家，但在他死于一次战斗中。后来阿甘回国后，以他的名字命名了自己的企业，并将股份给了布巴的亲戚。
 
 ## 链接
-<div class="align-center">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86px" src="//music.163.com/outchain/player?type=2&id=5217824&auto=1&height=66"></iframe>
-</div>
+网易云音乐：
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86px" src="//music.163.com/outchain/player?type=2&id=5217824&auto=0&height=66"></iframe>
 
-Bilibili:
+<br>
+***bilibili*** 有声书:
 - [有声书视频](https://www.bilibili.com/video/av40587950)
 - [有声书音频](https://www.bilibili.com/audio/am30127803)

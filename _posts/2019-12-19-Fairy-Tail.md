@@ -1,8 +1,8 @@
 ---
 title: "妖精的尾巴"
 image: 
-  path: /imgs/fairy_tail_ban.png
-  thumbnail: /imgs/fairy_tail_760.jpg
+  path: /imgs/animes/fairy_tail_ban.png
+  thumbnail: /imgs/animes/fairy_tail_760.jpg
 #   caption: "Photo from [...](http://...)"
 categories: 动漫
 tags:
@@ -14,7 +14,7 @@ last_modified_at: 2019-12-19T08:09:24-08:00
 > 《妖精的尾巴》是日本漫画家真岛浩创作的少年漫画。电视动画《妖精的尾巴》由东京电视台出品，A-1 Pictures 和 SATELIGHT（ 176集开始由 Bridge 接替 SATELIGHT ）负责动画制作。该作品讲述了魔导士公会“妖精的尾巴”的成员露西、纳兹、哈比、格雷、艾露莎和他们的众多伙伴们在这个魔法世界中的一系列热血故事。
 <!--more-->
 
-![image-center]({{ '/imgs/fairy_tail.jpg' | absolute_url }})
+![image-center]({{ '/imgs/animes/fairy_tail.jpg' | absolute_url }})
 
 在一个名叫菲欧雷的魔法王国里，存在著许多专门替魔导士中介任务的魔导士公会，其中最有名的公会就是“妖精的尾巴”，这里聚集了许多厉害的魔导士。
 少女露西一直希望能加入云集众多厉害魔导士的名为“妖精尾巴”的公会，在纳兹的引导下，露西终于得偿所愿，随后，露西跟纳兹、格雷、艾露莎和哈比组成最强队伍，他们的旅程就此展开。

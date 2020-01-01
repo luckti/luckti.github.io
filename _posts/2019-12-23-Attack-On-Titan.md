@@ -1,8 +1,8 @@
 ---
 title: "进击的巨人"
 image: 
-  path: /imgs/attack_on_titan_ban.jpg
-  thumbnail: /imgs/attack_on_titan_760.jpg
+  path: /imgs/animes/attack_on_titan_ban.jpg
+  thumbnail: /imgs/animes/attack_on_titan_760.jpg
 categories:
   - 动漫
 tags:
@@ -18,7 +18,7 @@ last_modified_at: 2019-12-23T07:12:20-08:00
 
 [^1]: <[百度百科 进击的巨人](https://baike.baidu.com/item/%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA/65641?fr=aladdin)>
 
-![image-center]({{ '/imgs/attack_on_titan.jpg' | absolute_url }})
+![image-center]({{ '/imgs/animes/attack_on_titan.jpg' | absolute_url }})
 
 107年前（743年），世界上突然出现了人类的天敌“巨人”。面临着生存危机而残存下来的人类逃到了一个地方，盖起了三重巨大的城墙。人们在这隔绝的环境里享受了一百多年的和平，直到艾伦·耶格尔十岁那年，60米高的“超大型巨人”突然出现，以压倒性的力量破坏城门，其后瞬间消失，凶残的巨人们成群的冲进墙内捕食人类。
 

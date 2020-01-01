@@ -1,8 +1,8 @@
 ---
 title: "阿甘正传"
 image: 
-  path: /imgs/forrest_gump_ban.jpg
-  thumbnail: /imgs/forrest_gump_760.jpg
+  path: /imgs/movies/forrest_gump_ban.jpg
+  thumbnail: /imgs/movies/forrest_gump_760.jpg
 #   caption: "Photo from [...](http://...)"
 categories: 电影
 tags: 
@@ -21,7 +21,7 @@ last_modified_at: 2019-12-21T01:22:43-08:00
 {% endraw %}
 
 **【个人】最感人一幕**
-![image-center]({{ '/imgs/forrest_gump.jpg' | absolute_url }})
+![image-center]({{ '/imgs/movies/forrest_gump.jpg' | absolute_url }})
 {: .notice--info .text-center}
 
 阿甘是个智商只有75的低能儿。在学校里为了躲避别的孩子的欺侮，听从一个朋友珍妮的话而开始“跑”。他跑着躲避别人的捉弄。在中学时，他为了躲避别人而跑进了一所学校的橄榄球场，就这样跑进了大学。阿甘被破格录取，并成了橄榄球巨星，受到了肯尼迪总统的接见。

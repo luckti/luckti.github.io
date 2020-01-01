@@ -1,7 +1,7 @@
 ---
 title: "阿甘正传"
 image: 
-  path: /imgs/forrest_gump.jpg
+  path: /imgs/forrest_gump_ban.jpg
   thumbnail: /imgs/forrest_gump_760.jpg
 #   caption: "Photo from [...](http://...)"
 categories: 电影
@@ -15,7 +15,14 @@ last_modified_at: 2019-12-21T01:22:43-08:00
 电影改编自美国作家温斯顿·格卢姆于1986年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事。电影上映后，于1995年获得奥斯卡最佳影片奖、最佳男主角奖、最佳导演奖等6项大奖。
 <!--more-->
 
-{% include responsive-embed url="//player.bilibili.com/player.html?aid=39427963&cid=69278652&page=1"  ratio="4:3" %}
+{% raw %}
+<p class="notice--success text-center"><strong>【个人】最好听的配乐</strong>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86px" src="//music.163.com/outchain/player?type=2&id=5217824&auto=0&height=66"></iframe></p>
+{% endraw %}
+
+**【个人】最感人一幕**
+![image-center]({{ '/imgs/forrest_gump.jpg' | absolute_url }})
+{: .notice--info .text-center}
 
 阿甘是个智商只有75的低能儿。在学校里为了躲避别的孩子的欺侮，听从一个朋友珍妮的话而开始“跑”。他跑着躲避别人的捉弄。在中学时，他为了躲避别人而跑进了一所学校的橄榄球场，就这样跑进了大学。阿甘被破格录取，并成了橄榄球巨星，受到了肯尼迪总统的接见。
 
@@ -23,6 +30,10 @@ last_modified_at: 2019-12-21T01:22:43-08:00
 在隐居生活中，他时常思念珍妮。而这时的珍妮早已误入歧途，陷于绝望之中。终于有一天，珍妮回来了。她和阿甘共同生活了一段日子。在一天夜晚，珍妮投入了阿甘的怀抱，之后又在黎明悄然离去。醒来的阿甘木然坐在门前的长椅上，然后突然开始奔跑。他跑步横越了美国，又一次成了名人。
 
 在奔跑了许久之后，阿甘停了下来，开始回自己的故乡。在途中，收到了珍妮的信。他立刻去见找她。在公交站台候车时。 阿甘向他人讲述了他之前的经历。于是他又一次见到了珍妮，还有一个小男孩，那是他的儿子。这时的珍妮已经得了一种不治之症。阿甘和珍妮三人一同回到了家乡，一起度过了一段幸福的时光。珍妮过世了，他们的儿子也已到了上学的年龄。阿甘送儿子上了校车，坐在公共汽车站的长椅上，回忆起了他一生的经历。
+
+**自制配乐视频**
+{: .notice--danger .text-center}
+{% include responsive-embed url="//player.bilibili.com/player.html?aid=39427963&cid=69278652&page=1"  ratio="4:3" %}{: .notice--danger}
 
 ## 角色
 
@@ -48,15 +59,11 @@ last_modified_at: 2019-12-21T01:22:43-08:00
 
 - 阿甘在越南时的战友，和阿甘在战斗中建立起深厚的友谊，他梦想战争结束后回美国创业，成立渔业公司，通过捕虾成了一名企业家，但在他死于一次战斗中。后来阿甘回国后，以他的名字命名了自己的企业，并将股份给了布巴的亲戚。
 
-## 链接
-
-网易云音乐：
-
-{% raw %}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86px" src="//music.163.com/outchain/player?type=2&id=5217824&auto=0&height=66"></iframe>
-<br>
-{% endraw %}
-
-***bilibili*** 有声书:
+## 小说
+***bilibili*** 自制有声书视频:
 [有声书视频](#https://www.bilibili.com/video/av40587950){: .btn .btn--info .btn--small}
 [有声书音频](#https://www.bilibili.com/audio/am30127803){: .btn .btn--success .btn--small}
+
+
+### 个人评论
+TODO: 先占坑。。。

@@ -13,7 +13,7 @@
           {%- if link.icon -%}
             {%- assign title = '<i class="' | append: link.icon | append: '"> </i>'-%}
           {%- else -%}
-            {%- assign title = link.title -%}
+            {%- assign title = site.data.text[site.locale][link.title]  | default: link.title -%}
           {%- endif -%}
           <li > <a href="{{ url }}" title="{{ link.title }}">{{ title }}</a> </li>
         {%- endfor -%}

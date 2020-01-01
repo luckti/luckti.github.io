@@ -13,4 +13,5 @@ image:
 
 感谢 [Jekyll](https://jekyllrb.com/) 团队的工作，让网站开发变得如此简单. 同时感谢 [Michael Rose - so-simple-theme](https://github.com/mmistakes/so-simple-theme) 的开源博客主题.
 
--> 最近更新于: Dec. 9th 2019
+-> 最近更新于: {{ "now" | date: "%a, %b %d, %Y" }}
+

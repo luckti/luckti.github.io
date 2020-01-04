@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # remote_theme: mmistakes/so-simple-theme
-locale: ch-cn
+locale: ch-CN #en-US
 title: "luckti"
 description: "知行合一"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ url: "https://blog.luckticloud.com" # the base hostname & protocol for your site
 logo: /imgs/logo.png # path of site logo, e.g. "/imgs/logo.png"
 date_format: "%Y-%m-%d"
 read_time: true # reading time estimates, e.g. true
-words_per_minute: 200
+words_per_minute: 50
 mathjax: true # MathJax equations, e.g. true
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:

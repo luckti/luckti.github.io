@@ -1,6 +1,6 @@
 # Theme text and labels
 
-# English (default)
+# Chinese (default)
 # -----------------
 ch: &DEFAULT_CH
   skip_links: "Skip links"
@@ -8,6 +8,13 @@ ch: &DEFAULT_CH
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu_label: "菜单"
+  Home: 首页
+  Posts: 推文
+  Categories: 类别
+  Tags: 标签
+  About: 关于
+  Search: 搜索
+  Add: 添加
   by: "by"
   min_read: "（分）阅读"
   read_more: "更多&hellip;"
@@ -26,7 +33,19 @@ ch: &DEFAULT_CH
   back_to_top: "回到首部"
   search_placeholder_text: "输入搜索关键词..."
   powered_by: "Powered by"
-ch-cn:
+ch-CN:
+  <<: *DEFAULT_CH
+zh-HK:
+  <<: *DEFAULT_CH
+zh-MO:
+  <<: *DEFAULT_CH
+zh-CHS:
+  <<: *DEFAULT_CH
+zh-SG:
+  <<: *DEFAULT_CH
+zh-TW:
+  <<: *DEFAULT_CH
+zh-CHT:
   <<: *DEFAULT_CH
 
 # English (default)
@@ -37,6 +56,13 @@ en: &DEFAULT_EN
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu_label: "Menu"
+  Home: Home
+  Posts: Posts
+  Categories: Categories
+  Tags: Tags
+  About: About
+  Search: Search
+  Add: Add
   by: "by"
   min_read: "min read"
   read_more: "Read more&hellip;"
@@ -73,6 +99,13 @@ de: &DEFAULT_DE
   skip_content: "Zu Inhalt springen"
   skip_footer: "Zu Fußzeile springen"
   menu_label: "Menü"
+  Home: Home
+  Posts: Posts
+  Categories: Categories
+  Tags: Tags
+  About: About
+  Search: Search
+  Add: Add
   by: "von"
   min_read: "min read"
   read_more: "Mehr lesen&hellip;"
@@ -107,6 +140,13 @@ es: &DEFAULT_ES
   skip_content: "Saltar al contenido"
   skip_footer: "Saltar al pie de página"
   menu_label: "Menú"
+  Home: Home
+  Posts: Posts
+  Categories: Categories
+  Tags: Tags
+  About: About
+  Search: Search
+  Add: Add
   by: "por"
   min_read: "minuto(s) de lectura"
   read_more: "Leer más&hellip;"
@@ -139,6 +179,13 @@ fr: &DEFAULT_FR
   skip_content: "Aller au contenu"
   skip_footer: "Aller au pied de page"
   menu_label: "Menu"
+  Home: Home
+  Posts: Posts
+  Categories: Categories
+  Tags: Tags
+  About: About
+  Search: Search
+  Add: Add
   by: "par"
   min_read: "min de lecture"
   read_more: "En savoir plus&hellip;"
@@ -170,6 +217,13 @@ it: &DEFAULT_IT
   skip_content: "Vai al contenuto"
   skip_footer: "Vai al footer"
   menu_label: "Menu"
+  Home: Home
+  Posts: Posts
+  Categories: Categories
+  Tags: Tags
+  About: About
+  Search: Search
+  Add: Add
   by: "di"
   min_read: "min. per leggere"
   read_more: "Leggi di più&hellip;"

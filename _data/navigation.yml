@@ -1,17 +1,16 @@
 # Sample site navigation bar links
-
 - title: Home
   url: /
   icon: fas fa-home
-- title: 推文
+- title: Posts
   url: /posts/
-- title: 类别
+- title: Categories
   url: /categories/
-- title: 标签
+- title: Tags
   url: /tags/
 # - title: Projects
 #   url: /prjs/
-- title: 关于
+- title: About
   url: /about/
 - title: Search
   url: /search/
@@ -19,4 +18,3 @@
 - title: Add
   icon: fas fa-plus
   url: https://github.com/luckti/luckti.github.io/new/master/_posts
-

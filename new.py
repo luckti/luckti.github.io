@@ -119,45 +119,27 @@ def GetBlogBaseDataFromArgv(argv):
   return blogBaseData
 
 def modifyBlogBaseDataByTemplate(blogBaseData):
-  if blogBaseData['templateName'] == 'EF_GL' or blogBaseData['templateName'] == 'EG': ## EF_GL
-    if not ('EF-GL' in blogBaseData['categories']):
-      blogBaseData['categories'].append('EF-GL')
-    if not ('English' in blogBaseData['tags']):
-      blogBaseData['tags'].append('English')
-    if not ('Advanced' in blogBaseData['tags']):
-      blogBaseData['tags'].append('Advanced')
+  if blogBaseData['templateName'] == 'Anime' or blogBaseData['templateName'] == 'A': ## Anime
+    if not ('动漫' in blogBaseData['categories']):
+      blogBaseData['categories'].append('动漫')
+    if not ('剧情设计' in blogBaseData['tags']):
+      blogBaseData['tags'].append('剧情设计')
+    if not ('故事主题' in blogBaseData['tags']):
+      blogBaseData['tags'].append('故事主题')
     ## extra content
     blogBaseData['extra'] += '> \n<!--more-->\n\n'
-    blogBaseData['extra'] += '----------------------\n### Questions\n\n\n'
-    blogBaseData['extra'] += '----------------------\n### Phrases\n\n\n'
-    blogBaseData['extra'] += '----------------------\n### Conversation\n\n\n'
-  elif blogBaseData['templateName'] == 'EF_Notes' or blogBaseData['templateName'] == 'EN': ## EF_Notes
-    if not ('EF-Notes' in blogBaseData['categories']):
-      blogBaseData['categories'].append('EF-Notes')
-    if not ('English' in blogBaseData['tags']):
-      blogBaseData['tags'].append('English')
-    if not ('Leaning-Notes' in blogBaseData['tags']):
-      blogBaseData['tags'].append('Leaning-Notes')
+    blogBaseData['extra'] += '## TV动画\n-------------\n### 角色声优\n\n\n'
+    blogBaseData['extra'] += '### 制作人员\n\n\n'
+    blogBaseData['extra'] += '### 个人评论\n\n\n'
   elif blogBaseData['templateName'] == 'Notes' or blogBaseData['templateName'] == 'N': ## Notes
     if not ('Notes' in blogBaseData['categories']):
       blogBaseData['categories'].append('Notes')
     if not ('Notes' in blogBaseData['tags']):
       blogBaseData['tags'].append('Notes')
-  elif blogBaseData['templateName'] == 'Diary' or blogBaseData['templateName'] == 'D': ## Diary
-    if not ('Diary' in blogBaseData['categories']):
-      blogBaseData['categories'].append('Diary')
-    if not ('Diary' in blogBaseData['tags']):
-      blogBaseData['tags'].append('Diary')
-    ## extra content
-    blogBaseData['extra'] += '> ### Is yesterday a valuable day for you?\n<!--more-->\n\n'
-    blogBaseData['extra'] += '\n### What had you done yesterday?\n\n* \n'
-    blogBaseData['extra'] += '\n### What will you do today?\n\n- \n'
   else:
     print("InputErro: Undefined template name")
     print("please input one of following template names(the name abbreviation in brackets):")
-    print("  EF-GL(EG)")
-    print("  EF-Notes(EN)")
-    print("  Diary(D)")
+    print("  Anime(A)")
     print("  Notes(N)")
     return
 
@@ -167,6 +149,9 @@ def getHeadText(blogBaseData):
   if blogBaseData['templateName'] != '':
     modifyBlogBaseDataByTemplate(blogBaseData) ## modify the base data
   headText+='title: \"'+blogBaseData['title'].replace('_',' ')+'\"\n' ## title line
+  headText+='image: \n'
+  headText+='  path: /imgs/ \n'
+  headText+='  thumbnail: /imgs/ \n'
   ## categories
   headText+='categories:\n'
   for text in blogBaseData['categories']:
@@ -220,7 +205,7 @@ def main(argv):
         print(GetUTCTimeText())
         os.rename(sameFile[updateIndex],filepath) ## rename file to update the date
         return
-  postfile=open(filepath,'w')
+  postfile=open(filepath,'w',encoding='utf-8')
   headText=getHeadText(blogBaseData)
   postfile.write(headText)
   postfile.close

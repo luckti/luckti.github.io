@@ -1,10 +1,12 @@
 ---
 title: "HTTP 协议"
-categories: 读书笔记
+categories:
+  - Notes
+  - 读书笔记
 tags:
-  - 笔记
   - Web
   - HTTP
+  - 图解HTTP
 excerpt_separator: <!--more-->
 last_modified_at: 2019-12-03T04:57:43-08:00
 ---

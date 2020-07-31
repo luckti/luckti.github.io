@@ -65,6 +65,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - new.py
+  - code/
 
 plugins:
   - jekyll-seo-tag

@@ -1,5 +1,5 @@
 ---
-title: "类型转换和类型强制转换"
+title: "[C++]类型转换和类型强制转换"
 categories:
   - Notes
 tags:
